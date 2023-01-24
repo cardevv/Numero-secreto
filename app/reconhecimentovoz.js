@@ -44,3 +44,6 @@ if (NumeroSecreto > Number(chute)) {
 
 
 }
+
+
+recognition.addEventListener('end', () => recognition.start())

@@ -32,6 +32,11 @@ h3 {
     margin-top: 20px;
 }
 
+h2 {
+
+    font-size: 6em;
+}
+
 i {
 
     margin-top: 20px;
@@ -50,4 +55,14 @@ i {
     font-size: 7em;
     margin: 10px;
     padding: 10px;
+}
+
+.btn-rejoga {
+
+    padding: 8px 15px;
+    border: none;
+    background-color: var(--cor-primaria);
+    border-radius: 5px;
+    margin-top: 25px;
+
 }
